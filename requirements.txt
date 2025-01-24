@@ -1,0 +1,14 @@
+streamlit
+langchain
+llama_index
+google-auth
+google-auth-oauthlib
+openai
+requests
+google-generativeai
+python-dotenv
+PyPDF2
+faiss-cpu
+langchain_google_genai
+langchain_community
+chromadb
